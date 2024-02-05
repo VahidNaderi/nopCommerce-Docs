@@ -6,8 +6,7 @@ contributors: git.DmitriyKulagin
 ---
 
 # Configuring code style
-
-Certain coding guidelines exist in a company nopCommerce, one has to follow these guidelines when creating source code. Visual Studio helps to maintain the necessary style of code using the [.editorconfig](https://github.com/nopSolutions/nopCommerce/blob/develop/.editorconfig) file.
+nopCommerce has specific coding guidelines that developers should follow when creating source code. The [.editorconfig](https://github.com/nopSolutions/nopCommerce/blob/develop/.editorconfig) file in Visual Studio helps to enforce the desired code style.
 
 > [!TIP]
-> More information about this subject can be found by reading the documentation "[Code style preferences](https://docs.microsoft.com/visualstudio/ide/code-styles-and-code-cleanup?view=vs-2022)"
+> You can learn more about this topic at "[Code style preferences](https://docs.microsoft.com/visualstudio/ide/code-styles-and-code-cleanup?view=vs-2022)"
